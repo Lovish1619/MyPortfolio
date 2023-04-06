@@ -1,0 +1,235 @@
+#header{
+    background-image: url("D:/Study/Portfolio/images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+    color: white;
+    position: absolute;
+}
+
+#resume{
+    border: #0000ff 3pt;
+    position: absolute;
+    border: red 3pt;
+    width: 70%;
+    margin-top: 300px;
+    margin-left: 12.5%;
+    height: 1150px;
+    display: flex;
+    justify-content: center;
+    background-color: #007acc;
+}
+
+.navbar{
+    position: relative;
+    float: right;
+    width: 55%;
+    height: 50px;
+    right: 2%;
+}
+
+.logo{
+    position: relative;
+    float: left;
+    width: 10%;
+    height: 50px;
+    left: 3%;
+}
+
+.header-name{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    top: 30%
+}
+
+#profile-photo {
+    position: relative;
+    top: 260px;
+    margin-left: 40px;
+    left: 0%;
+    width: 40%;
+}
+
+#about{
+    position: absolute;
+    top: 270px;
+    right: 5%;
+    width: 50%;
+}
+
+#keyword{
+    position: absolute;
+    margin-left: 40px;
+    width: 75%;
+    height: auto;
+    top: 120%;
+}
+
+.keyhead{
+    position: absolute;
+    top: 2%;
+    left: 0%;
+    width: 70%;
+    height: auto;
+}
+
+.keyhead h1{
+    color: #007acc;
+}
+
+.keylist li{
+    color: #003333;
+    font-size: large;
+    font-style: italic;
+}
+
+#keyword hr{
+    width: cover;
+    height: 5px;
+    top: 0%;
+    position: absolute;
+    background-color: lightblue;
+}
+
+.keylist{
+    position: absolute;
+    width: 50%;
+    height: auto;
+    bottom: 5%;
+    left: 0%;
+}
+
+.navbar ul{
+    display: inline;
+    float: right;
+    margin-right: 20px;
+}
+
+.navbar li{
+    display: inline;
+    padding-left: 40px;
+    font-size: larger;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+}
+
+.navbar a:hover{
+    font-style: bold;
+}
+
+span{
+    color: white;
+}
+
+.header-name hr{
+    width: 10%;
+    height: 5px;
+    background-color: lightblue;
+    margin-top: 0%;
+}
+
+
+#profile-photo img{
+    size: cover;
+}
+
+
+
+#about h1{
+    text-align: left;
+    color: #007acc;
+}
+
+#about p{
+    text-align: justify;
+    font-size: medium;
+    margin-top: 0%;
+    margin-right: 25px;
+    color: #003333;
+}
+
+#about a{
+    text-decoration: none;
+    color: #0000ff;
+}
+
+#keyword{
+    padding: 100px;
+}
+
+.contact-1 img{
+    position: absolute;
+    top: 400px;
+    margin-left: 120px;
+    left: 0%;
+    width: 10%;
+    height: 100px;
+    border-radius: 10%;
+}
+
+.contact-1 h4{
+    position: absolute;
+    top: 480px;
+    margin-left: 130px;
+    color: blue;
+}
+
+.contact-2 img{
+    position: absolute;
+    top: 400px;
+    margin-left: 400px;
+    left: 0%;
+    width: 10%;
+    height: 100px;
+    border-radius: 10%;
+}
+
+.contact-2 h4{
+    position: absolute;
+    top: 480px;
+    margin-left: 400px;
+    color: blue;
+}
+
+.contact-3 img{
+    position: absolute;
+    top: 400px;
+    margin-left: 700px;
+    left: 0%;
+    width: 10%;
+    height: 100px;
+    border-radius: 10%;
+}
+
+.contact-3 h4{
+    position: absolute;
+    top: 480px;
+    margin-left: 710px;
+    color: blue;
+}
+
+.contact-4 img{
+    position: absolute;
+    top: 400px;
+    margin-left: 1000px;
+    left: 0%;
+    width: 10%;
+    height: 100px;
+    border-radius: 10%;
+}
+
+.contact-4 h4{
+    position: absolute;
+    top: 480px;
+    margin-left: 1000px;
+    color: blue;
+}
